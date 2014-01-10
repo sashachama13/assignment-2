@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* Responsive Setup */
+/* CSS */
+
+html, body{
+		background-color: #FFF;
+		font-family: helvetica;
+		color: #999 ;
+		margin: 0;
+		padding: .5rem;
+		padding-top:0;
+		width: 100%;
+}
+
+main{
+	width:90%;
+	margin: 0 auto;
+}
+
+img{
+	width: 100%;	
+}
+
+.logo {
+	width: 64px;
+	float: left;
+	padding-right: .27rem;
+	
+		 
+}
+h1{
+	padding-top:1rem;
+	color: #000;
+}
+
+h3{
+	color:#666
+}
+
+ul{
+	line-height: 1rem;
+	
+}
+
+table{
+	margin-bottom: 1rem;
+	line-height: 1.5rem;
+}
+
